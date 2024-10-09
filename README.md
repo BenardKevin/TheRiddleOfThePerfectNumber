@@ -1,0 +1,2 @@
+# Java exercise: “L'énigme du nombre parfait”.
+A perfect number is a number that is equal to the sum of its proper divisors (divisors less than itself). For example, 6 is a perfect number, because its proper divisors are 1, 2 and 3, and 1 + 2 + 3 = 6. Your program needs to determine whether a number given by the user is a perfect number.
